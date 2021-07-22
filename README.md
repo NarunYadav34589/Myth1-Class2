@@ -1,1 +1,1 @@
-# Myth1-Class2
+# Myth1
